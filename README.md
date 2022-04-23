@@ -1,5 +1,5 @@
 # project3cx_personalpbextractor
-A program to extract the phonebook list from a 3cx backup XML file.
+A program to extract the personal phonebook list from any extension on a 3cx backup XML file.
 
 
 PT-BR:
