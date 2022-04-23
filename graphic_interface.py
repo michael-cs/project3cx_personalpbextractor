@@ -1,4 +1,3 @@
-from distutils import extension
 import PySimpleGUI as sg
 
 class TelaPython:
@@ -15,7 +14,6 @@ class TelaPython:
         #Extrair os dados da tela
         self.button,self.values = window.Read()
     def Iniciar(self):
-        print(self.values)
         global arquivo_xml
         global ext_number
         arquivo_xml=self.values['xml']
