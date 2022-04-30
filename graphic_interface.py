@@ -18,9 +18,6 @@ class TelaPython:
         global ext_number
         arquivo_xml=self.values['xml']
         ext_number=self.values['extension']
-        
-        #print(f'xml: {arquivo_xml}')
-        #print(f'extension: {ext_number}')
 
 tela = TelaPython()
 tela.Iniciar()

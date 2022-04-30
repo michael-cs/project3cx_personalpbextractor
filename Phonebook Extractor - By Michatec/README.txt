@@ -1,4 +1,4 @@
-*********************Personal Contacts Extractor - By Michatec************************
+
 
 1-Baixe um backup do 3CX Phone System no qual esteja a extensão cujos
 contatos pessoais se deseje extrair.
@@ -15,6 +15,6 @@ contatos pessoais da extensão indicada. Este arquivo, já está formatado no pa
 
 
 
-(Na versão atual não há tratamento a exceções. O não preenchimento de campos incorre 
-em erro ao encerrar o executável, bem como, o preenchimento incorreto dos mesmos.)
+(Michael-CS,michaelcristianodesouza@gmail.com)
+ 
  

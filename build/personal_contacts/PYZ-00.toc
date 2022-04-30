@@ -704,9 +704,17 @@
    'c:\\users\\michael '
    'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\__init__.py',
    'PYMODULE'),
-  ('distutils.extension',
+  ('distutils.ccompiler',
    'c:\\users\\michael '
-   'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\extension.py',
+   'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\michael '
+   'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\michael '
+   'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\debug.py',
    'PYMODULE'),
   ('distutils.util',
    'c:\\users\\michael '
@@ -716,45 +724,33 @@
    'c:\\users\\michael '
    'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\filelist.py',
    'PYMODULE'),
-  ('distutils.debug',
+  ('distutils.dep_util',
    'c:\\users\\michael '
-   'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\debug.py',
-   'PYMODULE'),
-  ('distutils.file_util',
-   'c:\\users\\michael '
-   'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\file_util.py',
+   'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dep_util.py',
    'PYMODULE'),
   ('distutils.dir_util',
    'c:\\users\\michael '
    'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dir_util.py',
    'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\michael '
+   'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
   ('distutils.spawn',
    'c:\\users\\michael '
    'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\spawn.py',
-   'PYMODULE'),
-  ('distutils.dep_util',
-   'c:\\users\\michael '
-   'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dep_util.py',
    'PYMODULE'),
   ('distutils.errors',
    'c:\\users\\michael '
    'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\errors.py',
    'PYMODULE'),
-  ('distutils.text_file',
-   'c:\\users\\michael '
-   'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\text_file.py',
-   'PYMODULE'),
-  ('distutils.ccompiler',
-   'c:\\users\\michael '
-   'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\ccompiler.py',
-   'PYMODULE'),
-  ('distutils.fancy_getopt',
-   'c:\\users\\michael '
-   'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\fancy_getopt.py',
-   'PYMODULE'),
   ('distutils.sysconfig',
    'c:\\users\\michael '
    'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\michael '
+   'souza\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\text_file.py',
    'PYMODULE'),
   ('platform',
    'c:\\users\\michael '
